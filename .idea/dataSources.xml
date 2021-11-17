@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="hive_jdbc" uuid="dbe28886-cb26-41b8-bfcf-373c8b38e1e2">
+      <driver-ref>0116706e-d7c9-4800-81ef-ca4d0718380b</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.apache.hive.jdbc.HiveDriver</jdbc-driver>
+      <jdbc-url>jdbc:hive2://hadoop102:10000</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="gmall" uuid="f98b854e-f99b-4dc4-9cdf-f30f7de12f85">
+      <driver-ref>0116706e-d7c9-4800-81ef-ca4d0718380b</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.apache.hive.jdbc.HiveDriver</jdbc-driver>
+      <jdbc-url>jdbc:hive2://hadoop102:10000/gmall</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
